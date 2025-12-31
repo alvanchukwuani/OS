@@ -175,7 +175,6 @@ main
 ```
 
 
-Output : 
 
 
 
@@ -247,6 +246,5 @@ main
 ```
 
 
-Output : 
 
 
