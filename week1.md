@@ -29,10 +29,10 @@ For networking, I have used private NAT networking which comes with Virtual mach
 ![](/Images/anetwork.png)
 
 
-![](/Images/networkconfig1.png)
+![](/Images/desktop1.png)
 
 
-![](/Images/networkconfig2.png)
+![](/Images/server1.png)
 
 
 ### Ip Address of both machines
