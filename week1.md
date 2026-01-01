@@ -19,7 +19,7 @@ I have chose ubuntu server because it is more stable in nature compared to other
 
 ### Workstation : 
 
-I will chose Ubuntu Desktop as my main workstation OS system because it is more reliable and stable as will all Ubuntu Distribution, it is less resource intensive compared to Windows OS. It is also very begineer friendly and since Ubuntu Server and Ubuntu Desktop shares the same package manager which is apt, it is also very easy to install packages and dependencies. This allows me to streamline integration of both OS as they share the same commands. 
+I will chose Ubuntu Desktop as my main workstation OS system because it is more reliable and stable as well as  all other Ubuntu Distribution, it is less resource intensive compared to Windows OS. It is also very begineer friendly and since Ubuntu Server and Ubuntu Desktop shares the same package manager which is apt, it is also very easy to install packages and dependencies. This allows me to streamline integration of both OS as they share the same commands. 
 
 
 ### Network Configuration. 
